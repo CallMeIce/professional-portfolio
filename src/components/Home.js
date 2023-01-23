@@ -17,7 +17,7 @@ export default function Home() {
         <div className="home" style={styles.homeStyle}>
             <main>
                 <h1>Isaak Morales</h1>
-                <p>Upcoming Full Stack Web Developer, Upcoming Salesforce Admin/Dev, Drummer, Gamer</p>
+                <p>Upcoming Full Stack Web Developer, Learning Salesforce Administrator and Developer, Drummer, Gamer</p>
                 </main>
 
         </div>
