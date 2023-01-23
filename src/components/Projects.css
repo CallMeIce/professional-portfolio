@@ -1,0 +1,15 @@
+.container {
+    display: inline-flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+
+.One {
+    
+    margin-left: 10%;
+    margin-top: 2.5%;
+    border: lightgray;
+    border-style: solid;
+    border-width: 3px;
+}
